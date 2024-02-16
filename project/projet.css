@@ -1,0 +1,119 @@
+
+/*Titre css + animation section*/
+    .header{
+        color: #1c87c9;
+        font-family: "Crete Round", serif ;
+    }
+
+    .anime1{   
+      font-size:70px;
+        animation-name: textAnimation;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+    }
+    @keyframes textAnimation {
+        from {color: rgb(51, 38, 30);}
+        to {color: #1c87c9;}
+      }
+
+      /*body color background css section*/
+    body{ background-color: #fcfcfc;
+
+    }
+
+    /*slogan css section*/
+    .h2{
+        margin-top: 50px;
+        color:#333;
+        }
+
+        /*font textes body page css section*/
+    .pagefont{font-family: Arial, Helvetica, sans-serif;}
+
+        
+    
+  /*Nav css section*/
+
+    .nav1 a {
+       
+        color: #f2f2f2;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      
+    }
+    
+    .nav1 {
+        overflow: hidden;
+        background-color: #333;
+        height:40px; 
+        padding-top: 20px;
+        text-align: center;
+        margin-top: 150px;
+      }
+    
+        
+
+        .nav1 a:hover {
+            background-color: #ddd;
+            color: black;
+          }
+          
+          .nav1 a.active {
+            background-color: #04AA6D;
+            color: white;
+          }
+
+.bt{
+  height: 60px;
+  width: 120px;
+  background: #e5e1dd;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 3px;
+    display: block;
+    margin-left: 85%;
+    margin-right: 50%;
+
+    
+}
+          /*body text css section*/
+
+          .titreposition{
+            margin-top: 50px;
+            text-align: center;
+          }
+
+          .textposition{
+            margin-top: 70px;
+            text-align: justify;
+            padding-right: 200px;
+            padding-left: 200px;
+          }
+
+          /*footer css section*/
+.ft{background-color: #333;
+    margin-top: 100px;
+
+
+}
+
+.tx1{
+    color: #fcfcfc;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.tx2{
+    color: #fcfcfc;
+    
+}
+.imgicons{
+    padding-bottom: 25px;
+}
+
+          
+          
+          
+         

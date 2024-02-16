@@ -1,0 +1,22 @@
+
+
+fieldset{
+    border: 7px solid #1c87c9;
+    border-radius: 33px;
+    background-color: #e5e5e5;
+}
+
+body{ background-color: #fcfcfc;
+}
+
+.tdnm{
+    padding-left: 10%;
+}
+
+.tdtx{
+    padding-left: 10%;
+}
+
+.tdbt{
+    padding-left: 40%;
+}
